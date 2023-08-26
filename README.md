@@ -15,7 +15,7 @@
 ## Screenshots
 
 <img src='screenshots/website-home.png' alt='Movie Info Website Home' style='display:block;margin-left:auto;margin-right:auto;width:50%;'>
-<p style='text-align:center'>Movie Info Website Home</p>
+<p style='text-align:center'>Movie Info Website Home Page</p>
 <img src='screenshots/movie-search.png' alt='Movie Search' style='display:block;margin-left:auto;margin-right:auto;width:50%;'>
 <p style='text-align:center'>Movie Search</p>
 <img src='screenshots/prev-next.png' alt='Previous and Next options' style='display:block;margin-left:auto;margin-right:auto;width:50%;'>
