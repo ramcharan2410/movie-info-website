@@ -14,8 +14,12 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-Some description about this screenshot.
+<img src='screenshots/website-home.png' alt='Movie Info Website Home' style='display:block;margin-left:auto;margin-right:auto;width:50%;margin-bottom:2px'>
+<p style='text-align:center'>Movie Info Website Home</p>
+<img src='screenshots/movie-search.png' alt='Movie Search' style='display:block;margin-left:auto;margin-right:auto;width:50%;margin-bottom:2px'>
+<p style='text-align:center'>Movie Search</p>
+<img src='screenshots/prev-next.png' alt='Previous and Next options' style='display:block;margin-left:auto;margin-right:auto;width:50%;margin-bottom:2px'>
+<p style='text-align:center'>Previous and Next options</p>
 
 ## Demos
 
