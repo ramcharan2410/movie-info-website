@@ -40,7 +40,7 @@ This project is done with the TMDb API.
 
 ## Environment Variables
 
-To run this project, you will need to get your own API key from TMDb site.
+To run this project, you must get your own API key from the TMDb site.
 
 [Get your API key](https://www.themoviedb.org/settings/api)
 
@@ -48,8 +48,8 @@ To run this project, you will need to get your own API key from TMDb site.
 
 - Four categories - Now Playing, Popular, Top Rated, and Upcoming
 - Contains Movie Overview and its Average Rating
-- Previous and Next pages to discover wide range of available movies
+- Previous and Next pages to discover a wide range of available movies
 
 ## Feedback
 
-If you have any feedback, please reach me out at ramcharanvakkalanka@gmail.com
+If you have any feedback, please reach out to ramcharanvakkalanka@gmail.com
