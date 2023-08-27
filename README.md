@@ -12,6 +12,10 @@
 
 ## Brief Description
 
+This project allows us to view a wide range of now-playing, popular, top-rated, and upcoming movies. This project also allows us to view the overviews and ratings of each movie in any category. There is no limit to search a movie and know about it, because there are previous and next page options which enables you to travel to find new movies with each click.
+
+This project is build using HTML, CSS and JavaScript. Using JavaScript enabled me to access the response send by the TMDb API and use for developing this project.
+
 ## Screenshots
 
 <img src='screenshots/website-home.png' alt='Movie Info Website Home' style='display:block;margin-left:auto;margin-right:auto;width:50%;'>
