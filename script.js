@@ -1,6 +1,6 @@
 //APIs
-// const API_KEY = `{API_KEY}` // your TMDB API key
-// const API_URL = '{API_URL}' // TMDB API URL
+const API_KEY = process.env.API_KEY
+const API_URL = process.env.API_URL
 
 const urls = {
   DISCOVER: `${API_URL}discover/movie?api_key=${API_KEY}&page=1`,
