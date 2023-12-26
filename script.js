@@ -1,15 +1,11 @@
-//APIs
-const API_KEY = process.env.API_KEY
-const API_URL = process.env.API_URL
-
 const urls = {
-  DISCOVER: `${API_URL}discover/movie?api_key=${API_KEY}&page=1`,
+  DISCOVER: `${process.env.API_URL}discover/movie?api_key=${process.env.API_KEY}&page=1`,
   IMGPATH: 'https://image.tmdb.org/t/p/w1280',
-  SEARCHAPI: `${API_URL}search/movie?api_key=${API_KEY}&query=`,
-  NOWPLAYING: `${API_URL}movie/now_playing?language=en-US&api_key=${API_KEY}&page=1`,
-  POPULAR: `${API_URL}movie/popular?language=en-US&api_key=${API_KEY}&page=1`,
-  TOPRATED: `${API_URL}movie/top_rated?language=en-US&api_key=${API_KEY}&page=1`,
-  UPCOMING: `${API_URL}movie/upcoming?language=en-US&api_key=${API_KEY}&page=1`,
+  SEARCHAPI: `${process.env.API_URL}search/movie?api_key=${process.env.API_KEY}&query=`,
+  NOWPLAYING: `${process.env.API_URL}movie/now_playing?language=en-US&api_key=${process.env.API_KEY}&page=1`,
+  POPULAR: `${process.env.API_URL}movie/popular?language=en-US&api_key=${process.env.API_KEY}&page=1`,
+  TOPRATED: `${process.env.API_URL}movie/top_rated?language=en-US&api_key=${process.env.API_KEY}&page=1`,
+  UPCOMING: `${process.env.API_URL}movie/upcoming?language=en-US&api_key=${process.env.API_KEY}&page=1`,
 }
 
 const {
